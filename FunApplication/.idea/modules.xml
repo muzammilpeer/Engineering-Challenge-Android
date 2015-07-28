@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunApplication.iml" filepath="$PROJECT_DIR$/FunApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applicationsupportlayer/applicationsupportlayer.iml" filepath="$PROJECT_DIR$/applicationsupportlayer/applicationsupportlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databaselayer/databaselayer.iml" filepath="$PROJECT_DIR$/databaselayer/databaselayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networklayer/networklayer.iml" filepath="$PROJECT_DIR$/networklayer/networklayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilitylayer/utilitylayer.iml" filepath="$PROJECT_DIR$/utilitylayer/utilitylayer.iml" />
+    </modules>
+  </component>
+</project>
